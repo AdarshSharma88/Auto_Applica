@@ -1,0 +1,12 @@
+.applicationtype {
+  width: 100%;
+  height: auto;
+
+  > h1 {
+    width: 100%;
+    font-weight: 500;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+  }
+}
